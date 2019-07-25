@@ -1,0 +1,18 @@
+{
+  "name": "asistentekmg",
+  "version": "1.0.0",
+  "description": "Bot de KMG para Discord",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "AsistenteKMG"
+  },
+  "author": "Alvargon75",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
