@@ -1,0 +1,46 @@
+[
+    {
+        "user": {
+            "username": "Alvargon75#2793",
+            "id": "195570096981278723"
+        },
+        "status": {
+            "old": "online",
+            "new": "offline"
+        },
+        "date": "2019-07-27T11:07:20.775Z"
+    },
+    {
+        "user": {
+            "username": "Alvargon75#2793",
+            "id": "195570096981278723"
+        },
+        "status": {
+            "old": "offline",
+            "new": "online"
+        },
+        "date": "2019-07-27T11:07:22.931Z"
+    },
+    {
+        "user": {
+            "username": "Alvargon75#2793",
+            "id": "195570096981278723"
+        },
+        "status": {
+            "old": "online",
+            "new": "dnd"
+        },
+        "date": "2019-07-27T11:16:01.139Z"
+    },
+    {
+        "user": {
+            "username": "Alvargon75#2793",
+            "id": "195570096981278723"
+        },
+        "status": {
+            "old": "dnd",
+            "new": "online"
+        },
+        "date": "2019-07-27T11:16:02.757Z"
+    }
+]

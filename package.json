@@ -13,6 +13,7 @@
   "author": "Alvargon75",
   "license": "MPL-2.0",
   "dependencies": {
-    "discord.js": "^11.5.1"
+    "discord.js": "^11.5.1",
+    "opusscript": "0.0.6"
   }
 }

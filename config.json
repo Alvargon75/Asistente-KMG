@@ -1,5 +1,12 @@
 {
     "prefix":"!",
     "log": true,
-    "timezone": "UTC+2"
+    "timezone": "UTC+2",
+    "generalCh": "195571628690636801",
+    "noticeVoiceChannelActivity": {
+        "join": true,
+        "leave": false,
+        "audioWarning": true,
+        "route": "./aud"
+    }
 }

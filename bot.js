@@ -97,5 +97,10 @@ bot.on('presenceUpdate', (oldMember, newMember) => { // Objetos tipo GuildMember
     })();
 })
 
+// Eventos al actualizar el status de voz
+bot.on('voiceStateUpdate', (oldMember, newMember) => {
+    
+});
+
 // Login final
 bot.login(private.token);
